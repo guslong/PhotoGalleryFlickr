@@ -14,7 +14,6 @@ public class FlickrFetcher {
 	private static final String TAG = "PhotoGalleryFragment";
 	private static final String ENDPOINT = "https://api.flickr.com/services/rest";
 	private static final String METHOD_GET_RECENT = "flickr.photos.getRecent";
-
 	
 	// just a note so I can view in browser the xml
 	// https://api.flickr.com/services/rest/?method=flickr.photos.getRecent&api_key=7964de9405ed1fa76fb75a266cb05165
